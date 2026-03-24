@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Data Analyst & QA Engineer** focused on solving business problems through data — from designing relational databases and writing complex SQL to delivering executive dashboards and fraud detection systems.
 
@@ -23,14 +23,14 @@ miguel = {
     "role":     "Data Analyst  |  QA Engineer",
     "focus":    ["Business Intelligence", "Fraud Detection", "Data Quality"],
     "stack":    ["Python", "PostgreSQL", "Power BI", "Pandas", "Azure DevOps"],
-    "location": "Colombia 🇨🇴",
+    "location": "Colombia",
     "open_to":  "Remote opportunities · Data / BI roles"
 }
 ```
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Data & Analytics**
 
@@ -52,65 +52,65 @@ miguel = {
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Retail Profitability & KPIs</h3>
+      <h3>Retail Profitability & KPIs</h3>
       <p>Revenue, gross margin, LTV and customer segmentation on a full retail relational model. Executive Power BI dashboard with regional and product-level breakdown.</p>
       <p>
         <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=3B82F6"/>
         <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3B82F6"/>
         <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811"/>
       </p>
-      <a href="https://github.com/HenaoM7/Analisis_De_Rentabilidad">→ View project</a>
+      <a href="https://github.com/HenaoM7/Analisis_De_Rentabilidad">View project</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 Fraud Detection & Anomalies</h3>
+      <h3>Fraud Detection & Anomalies</h3>
       <p>Risk scoring system for fintech transactions using Z-score, behavioral rules and geographic inconsistency detection — fully built in PostgreSQL.</p>
       <p>
         <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=3B82F6"/>
         <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3B82F6"/>
         <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811"/>
       </p>
-      <a href="https://github.com/HenaoM7/Analisis_De_Fraude">→ View project</a>
+      <a href="https://github.com/HenaoM7/Analisis_De_Fraude">View project</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧹 Data Quality Audit</h3>
+      <h3>Data Quality Audit</h3>
       <p>Full audit of a transactional sales system — duplicates, nulls, referential integrity failures and revenue at risk, monitored via an interactive Power BI report.</p>
       <p>
         <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=3B82F6"/>
         <img src="https://img.shields.io/badge/SQL%20Advanced-0D1117?style=flat-square&logo=databricks&logoColor=3B82F6"/>
         <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811"/>
       </p>
-      <a href="https://github.com/HenaoM7/Analisis_De_Datos_Sistemas_Trasaccionales">→ View project</a>
+      <a href="https://github.com/HenaoM7/Analisis_De_Datos_Sistemas_Trasaccionales">View project</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Data Analyst Portfolio</h3>
+      <h3>Data Analyst Portfolio</h3>
       <p>Personal portfolio built with Next.js 14, TypeScript and Tailwind CSS. Showcases projects, stack and professional experience with a dark, modern UI.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6"/>
         <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
       </p>
-      <a href="https://portafolio-qyay8gzy9-henaom7s-projects.vercel.app/">→ Live site</a>
+      <a href="https://portafolio-qyay8gzy9-henaom7s-projects.vercel.app/">Live site</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💼 Experience
+## Experience
 
 **QA Engineer @ Quipux** *(2025 – Present)*
 SQL validation of millions of transactional records · CI/CD pipelines on Azure DevOps · Test automation with Serenity BDD · Cross-functional collaboration with development and data teams.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=HenaoM7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=3B82F6&icon_color=3B82F6&text_color=CBD5E1&bg_color=0D1117"/>
